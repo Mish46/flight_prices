@@ -12,20 +12,20 @@ The repository is organized as follows:
 - **`notebooks/`** - The notebook for exploratory data analysis (EDA), model development, and evaluation.
 - **`README.md`** - This file.
 
-###Model
+### Model
 The project involves several key steps:
 
-###Data Collection
+### Data Collection
 Gathering flight price data and relevant features. This includes sourcing data from various platforms or APIs that provide flight information, such as prices, airlines, and travel dates.
 
-###Data Preprocessing
+### Data Preprocessing
 Cleaning and preparing the data for analysis. This step involves handling missing values, removing duplicates, and normalizing data to ensure it's in a suitable format for modeling.
 
-###Feature Engineering
+### Feature Engineering
 Creating and selecting features that improve model performance. This includes deriving new features from existing data, such as calculating flight duration or encoding categorical variables.
 
-###Model Development
+### Model Development
 Implementing and training various machine learning algorithms to predict flight prices. This may involve experimenting with different algorithms such as linear regression, decision trees, or neural networks.
 
-###Model Evaluation
+### Model Evaluation
 Assessing the model’s accuracy and effectiveness using performance metrics. This includes evaluating the model's predictions against actual values using metrics like Mean Absolute Error (MAE), Root Mean Squared Error (RMSE), and R-squared.
